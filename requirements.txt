@@ -10,3 +10,4 @@ pandasql  # this is for example/st_app.py only
 gspread>=5.0.0, <6
 google-auth
 google-auth-oauthlib
+ gspread-pandas>=3.2.2
