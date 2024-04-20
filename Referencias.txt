@@ -1,0 +1,1 @@
+Paso a paso en imágenes para las credenciales: https://docs.streamlit.io/develop/tutorials/databases/private-gsheet
