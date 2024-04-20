@@ -11,7 +11,7 @@ df = conn.read(worksheet="americas")
 st.dataframe(df)
 
 if st.button("Update worksheet"):
-  df = conn.update(worksheet="hoja 2",
+  df = conn.update(worksheet="hoja 3",
             data=df)
   st.cache_data.clear()
   st.experimental_rerun()
