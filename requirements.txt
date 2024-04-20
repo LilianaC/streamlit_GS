@@ -1,13 +1,13 @@
-streamlit==1.22.0
+streamlit==1.22
 polars==0.17.10
 pandas==1.5.3
 plotly==5.9.0
 pillow==9.3.0
 datetime==5.1
-#git+https://github.com/streamlit/gsheets-connection
+git+https://github.com/streamlit/gsheets-connection
 pandasql  # this is for example/st_app.py only
 # Reqs
 gspread>=5.0.0, <6
 google-auth
 google-auth-oauthlib
- gspread-pandas>=3.2.2
+gspread-pandas>=3.2.2
